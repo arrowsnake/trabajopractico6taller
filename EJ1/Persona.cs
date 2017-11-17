@@ -5,7 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EJ1
-{
+{ 
+    /// <summary>
+    /// Persona agregada al coso
+    /// </summary>
     class Persona
     {
         public int PersonaId { get; set; }
